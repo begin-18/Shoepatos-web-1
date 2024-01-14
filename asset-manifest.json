@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Shoepatos-web-1/static/css/main.1b06a99e.css",
-    "main.js": "/Shoepatos-web-1/static/js/main.9650c8ce.js",
+    "main.js": "/Shoepatos-web-1/static/js/main.dd1bc907.js",
     "index.html": "/Shoepatos-web-1/index.html",
     "main.1b06a99e.css.map": "/Shoepatos-web-1/static/css/main.1b06a99e.css.map",
-    "main.9650c8ce.js.map": "/Shoepatos-web-1/static/js/main.9650c8ce.js.map"
+    "main.dd1bc907.js.map": "/Shoepatos-web-1/static/js/main.dd1bc907.js.map"
   },
   "entrypoints": [
     "static/css/main.1b06a99e.css",
-    "static/js/main.9650c8ce.js"
+    "static/js/main.dd1bc907.js"
   ]
 }
