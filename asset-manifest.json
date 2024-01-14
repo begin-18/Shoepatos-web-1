@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shoepatos-web-1/static/css/main.1b06a99e.css",
+    "main.js": "/Shoepatos-web-1/static/js/main.a17c2ee2.js",
+    "index.html": "/Shoepatos-web-1/index.html",
+    "main.1b06a99e.css.map": "/Shoepatos-web-1/static/css/main.1b06a99e.css.map",
+    "main.a17c2ee2.js.map": "/Shoepatos-web-1/static/js/main.a17c2ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b06a99e.css",
+    "static/js/main.a17c2ee2.js"
+  ]
+}
